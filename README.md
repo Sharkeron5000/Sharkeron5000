@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sharkeron5000
+- 👀 I’m interested in programming, photo and video editing, streams.
+- 🌱 I’m currently learning program in Javascript and everything related to it.
+- 💞️ I’m looking to collaborate with any IT company
+- 📫 How to reach me AqVadPlay@yandex.ru
