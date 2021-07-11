@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharkeron5000
+- 👋 Hi, I’m @Sharkeron5000 or EliBro
 - 👀 I’m interested in programming, photo and video editing, streams.
 - 🌱 I’m currently learning program in Javascript and everything related to it.
 - 💞️ I’m looking to collaborate with any IT company
